@@ -1,2 +1,2 @@
 # TrxFile
-trx file
+Contains trx file
